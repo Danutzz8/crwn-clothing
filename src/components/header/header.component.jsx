@@ -9,7 +9,7 @@ import { selectCartHidden } from '../../redux/cart/cart.selectors.js';
 import { selectCurrentUser } from '../../redux/user/user.selector';
 
 //import {ReactComponent as Logo} from '../../assets/crown.svg';
-import logo from '../../assets/my-logo.jpg';
+//import logo from '../../assets/my-logo.jpg';
 
 import './header.styles.scss';
 import { HeaderContainer, LogoContainer, OptionsContainer, OptionLink, MyLogo} from './header.style';
