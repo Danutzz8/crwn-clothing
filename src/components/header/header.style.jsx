@@ -33,6 +33,8 @@ export const OptionLink = styled(Link)`
     &:hover {
         background-color: black;
         color: white;
+        text-shadow: 3px 3px 2px white;
+        letter-spacing: 2px;
     }
 `;
 
