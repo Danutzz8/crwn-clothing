@@ -1,6 +1,5 @@
 import ShopActionTypes from './shop.types';
 
-//import { firestore, convertCollectionsSnapshotToMap } from '../../firebase/firebase-utils';
 import { firestore, convertCollectionsSnapshotToMap } from '../../components/firebase/firebase.utils';
 
 
