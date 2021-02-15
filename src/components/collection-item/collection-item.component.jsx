@@ -10,7 +10,7 @@ import {
     BackgroundImage,
     NameContainer,
     PriceContainer
-  } from './collection-styles.styles';
+  } from './collection-item.styles';
 
 import './collection-item.style.scss';
 
