@@ -1,2 +1,2 @@
 # crwn-clothing
-My React app ZTM-storefront...
+My React app ZTM-storefront..
